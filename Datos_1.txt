@@ -1,0 +1,5 @@
+<INI>
+1. Determinar datos comercios con mayores ventas ('licorerias','minimarkets')
+2. Filtrar vendedores con mayores comisiones en ('junin','ayacucho','lima')
+3. Exportar en tablas dinamicas a una hoja excel
+<INI>
