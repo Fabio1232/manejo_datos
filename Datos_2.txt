@@ -1,6 +1,6 @@
 <INI>
 1. Determinar datos comercios con mayores ventas ('minimarket','farmacias')
-2. Filtrar vendedores con mayores comisiones en ('huanuco','ayacucho','cusco')
+2. Filtrar vendedores con mayores comisiones en ('huanuco','ayacucho','cusco','trujillo','tacna')
 3. Filtrar comercios con rango de venta de 10k - 20k
 4. Exportar en tablas dinamicas a una hoja excel
 <INI>
